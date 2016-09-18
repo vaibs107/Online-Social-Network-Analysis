@@ -1,0 +1,20 @@
+Python 3.5.1 (v3.5.1:37a07cee5969, Dec  6 2015, 01:38:48) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+======== RESTART: C:\Users\Vaibhav\Downloads\vaibs107-master\a0\a0.py ========
+Established Twitter connection.
+Read screen names: ['DrJillStein', 'GovGaryJohnson', 'HillaryClinton', 'realDonaldTrump']
+found 4 users with screen_names ['DrJillStein', 'GovGaryJohnson', 'HillaryClinton', 'realDonaldTrump']
+Friends per candidate:
+DrJillStein 4159
+GovGaryJohnson 3124
+HillaryClinton 748
+realDonaldTrump 42
+Most common friends:
+[(15846407, 3), (19608297, 3), (41877508, 2), (12, 2), (65404941, 2)]
+Friend Overlap:
+[('DrJillStein', 'GovGaryJohnson', 349), ('DrJillStein', 'HillaryClinton', 10), ('DrJillStein', 'realDonaldTrump', 8), ('GovGaryJohnson', 'HillaryClinton', 9), ('GovGaryJohnson', 'realDonaldTrump', 12), ('HillaryClinton', 'realDonaldTrump', 1)]
+User followed by Hillary and Donald: ['MagicJohnson']
+graph has 389 nodes and 772 edges
+network drawn to network.png
+>>> 
