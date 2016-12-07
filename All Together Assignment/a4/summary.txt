@@ -1,0 +1,6 @@
+Number of users collected: 5
+Number of messages collected: 471
+Number of communities discovered: 2
+Community 1: 15
+Community 2: 15
+Number of instances per class found: (4529, 2247)

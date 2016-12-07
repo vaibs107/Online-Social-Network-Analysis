@@ -1,0 +1,11 @@
+Python 3.5.2 |Anaconda 4.2.0 (64-bit)| (default, Jul  5 2016, 11:41:13) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: C:\GitHub\vaibs107\vaibs107\a3\a3.py ===============
+vocab:
+[('action', 0), ('adventure', 1), ('animation', 2), ('children', 3), ('comedy', 4), ('crime', 5), ('documentary', 6), ('drama', 7), ('fantasy', 8), ('film-noir', 9)]
+99903 training ratings; 101 testing ratings
+error=0.787455
+[ 2.7945653   2.62385286  2.76558239  4.24064843  3.22115155  4.11423684
+  3.92040563  3.98286924  3.21565818  3.32692774]
+>>> 
