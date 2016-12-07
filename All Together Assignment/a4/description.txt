@@ -1,5 +1,0 @@
-Data is collected for 5 different football teams. The number of people they follow is determined and based on the common friends the graph is ploted. 
-Further the betweenness is calculated and graph is partitioned using Girvan Newman Alogirthm to find 2 clusters.
-
-For classification, separate data is collected for the top 4 businessmen of USA. Their recent tweets are collected and using affin, the total positive and negative scores are calculated.
-Finally, depending on the total scores the document is classified as positive or negative.
